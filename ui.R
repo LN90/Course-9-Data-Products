@@ -4,6 +4,7 @@ shinyUI(fluidPage(
   sidebarLayout(
     sidebarPanel(
       p("by Ellen Oosting"),
+      p("24-01-2017"),
       p("Rated as:"),
       textOutput("text")
       ),
