@@ -5,6 +5,8 @@ date: "24 januari 2017"
 output: html_document
 ---
 
+This is the first assignment for the second week of the Course Data products by Coursera. This website will give first an interactive graph and then three leaflet maps of three big cities in the United States. These maps are placed in tabs.
+
 ```{r,eval=FALSE}
 library(shiny)
 library(leaflet)
